@@ -27,7 +27,6 @@ def thesaurus(*args):
 
 
 
-
 if __name__ == "__main__":
     print(thesaurus("Иван", "Мария", "Петр", "Илья", "Афанасий", 'Авдотья'))
 
